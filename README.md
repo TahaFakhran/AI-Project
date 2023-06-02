@@ -9,4 +9,3 @@ We also added a graphical user interface using JavaFX, to run the code please vi
 The graphical user interface may bug if you try to change the n value after generating one, if that happens just close and restart the application.
 
 Project made by Anthony Homsy, Guillem Martinez and Taha Fakhran.
-"# AI-Project" 
